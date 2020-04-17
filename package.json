@@ -27,7 +27,7 @@
     "ascoders-tslint-config": "^1.0.2",
     "react": "*",
     "react-native": "*",
-    "tslint": "^5.8.0",
+    "tslint": "^6.1.1",
     "tslint-config-prettier": "^1.13.0",
     "typescript": "^3.8.3"
   }
