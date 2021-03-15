@@ -26,7 +26,7 @@
     "@types/react-native": "*",
     "ascoders-tslint-config": "^1.0.2",
     "react": "*",
-    "react-native": "0.62.2",
+    "react-native": "0.64.0",
     "tslint": "^6.1.1",
     "tslint-config-prettier": "^1.13.0",
     "typescript": "^3.8.3"
